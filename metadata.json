@@ -1,0 +1,8 @@
+{
+  "name": "YogGuru AI - Your Digital Yoga Master",
+  "description": "Revolutionary AI-powered yoga training platform with real-time skeletal tracking, expert posture correction, and personalized wellness journeys.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
